@@ -1,8 +1,10 @@
 # Google Summer of Code Proposal: Migrating HDDM to pymc3
 
+Also available on [Google Docs](https://docs.google.com/document/d/1nqHxB5HwLEuP2KWdGOKtGbjOh9Ocxi7EAXbCGSF0OCQ/edit?usp=sharing).
+
 ## Personal Information
 
-My name is Guy Davidson, @guydav. I'ma a current student at the [Minerva Schools at KGI](https://minerva.kgi.edu), majoring in computational sciences with a focus on statistics and machine learning. Before enrolling at Minerva I spent six years in various software-related roles in the Israel Defense Forces' intelligence branch, and during my studies, I have interned at Amazon Prime Air and [Aidoc Medical](https://aidoc.com/). I'm fascinated by cognitive sciences and intend to pursue graduate studies in them. When I'm not around a computer, I love to read, play ultimate frisbee, and experiment with new cooking recipes.
+My name is Guy Davidson. I'm a current student at the [Minerva Schools at KGI](https://minerva.kgi.edu), majoring in computational sciences with a focus on statistics and machine learning. Before enrolling at Minerva I spent six years in various software-related roles in the Israel Defense Forces' intelligence branch, and during my studies, I have interned at Amazon Prime Air and [Aidoc Medical](https://aidoc.com/). I'm fascinated by cognitive sciences and intend to pursue graduate studies in them. When I'm not around a computer, I love to read, play ultimate frisbee, and experiment with new cooking recipes.
 
 I am applying to work on pymc3 as it aligns with both my interests and my background. I have software development experience in Python and highly enjoy writing clean and efficient code. My studies give me a reasonable starting point to understand the statistical methods underlying pymc3, and my interests in computational statistics and cognitive sciences match the project.
 
